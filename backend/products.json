@@ -3,28 +3,32 @@
     "id": 1,
     "name": "RCB Jersey",
     "desc": "Official RCB jersey for fans.",
-    "price": 799,
-    "image": "https://via.placeholder.com/150?text=RCB+Jersey"
+    "price": 1999,
+    "image": "https://shop.royalchallengers.com/_next/image?url=https%3A%2F%2Ftg3.s3.ap-south-1.amazonaws.com%2Frevents%2Fpuma-mer%2F106%2F78167501_1.jpg&w=1920&q=75",
+    "link": "https://shop.royalchallengers.com/merchandise/106"
   },
   {
     "id": 2,
     "name": "MI Mug",
     "desc": "Official Mumbai Indians mug.",
     "price": 299,
-    "image": "https://via.placeholder.com/150?text=MI+Mug"
+    "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/r_7ijPfrl-MI-Ceramic-Mug.jpeg",
+    "link": "https://shop.mumbaiindians.com/product/playr-x-mi-ceramic-mug-kfrahk-prg?srsltid=AfmBOor9anOMMVRHZkvjbrH4zdK-Ms_kEBwXoj5jEEeagFss6-pjM_Le"
   },
   {
     "id": 3,
-    "name": "CSK Cap",
+    "name": "CSK Jersey",
     "desc": "Yellow cap representing Chennai Super Kings.",
-    "price": 399,
-    "image": "https://via.placeholder.com/150?text=CSK+Cap"
+    "price": 1899,
+    "image": "https://www.chennaisuperkings.com/shop/_next/image?url=https%3A%2F%2Fstore.chennaisuperkings.com%2F%2Fmedia%2Fcatalog%2Fproduct%2F%2Fc%2Fs%2Fcsk_half_sleeve.png&w=1920&q=75",
+    "link": "https://www.chennaisuperkings.com/shop/products/PRCSK24-MJHS-PLAIN"
   },
   {
     "id": 4,
     "name": "SRH T-Shirt",
     "desc": "Official Sunrisers Hyderabad T-shirt.",
-    "price": 499,
-    "image": "https://via.placeholder.com/150?text=SRH+T-Shirt"
+    "price": 479,
+    "image": "https://images.fancode.com/media/catalog/product/s/u/sunrisers_hyderabad_men_srh_lookalike_2024_fan_jersey_customised(2).png?hash=eyJrZXkiOiJtZWRpYS9jYXRhbG9nL3Byb2R1Y3Qvcy91L3N1bnJpc2Vyc19oeWRlcmFiYWRfbWVuX3NyaF9sb29rYWxpa2VfMjAyNF9mYW5famVyc2V5X2N1c3RvbWlzZWQoMikucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwiYmFja2dyb3VuZCI6InRyYW5zcGFyZW50Iiwid2lkdGgiOjM2MCwiaGVpZ2h0Ijo0ODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+    "link": "https://www.sunrisershyderabad.in/shop/category/jerseys/sunrisers-hyderabad-men-srh-lookalike-2024-fan-jersey-customised/SRH24MTS003CU"
   }
 ]
