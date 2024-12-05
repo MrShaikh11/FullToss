@@ -18,19 +18,9 @@ app.use(express.json());
 // Add this route to fetch products
 
 // Serve products data from the products.json file
-app.get("/products", (req, res) => {
-  const filePath = path.join(__dirname, "products.json");
-
-  // Read and send the JSON data
-  fs.readFile(filePath, "utf8", (err, data) => {
-    if (err) {
-      return res.status(500).send("Error reading products data.");
-    }
-    const products = JSON.parse(data);
-    res.json({ products });
-  });
+app.get("/", (req, res) => {
+  res.send("hello world");
 });
-
 app.get("/user", auth, (req, res) => {
   UserModel.findById(req.user._id)
     .then((user) => {
