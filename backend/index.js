@@ -8,11 +8,11 @@ const auth = require("./middlewares/auth.middleware");
 const ProductModel = require("./models/product.models"); // Assuming you have a product model
 const path = require("path");
 const fs = require("fs");
+app.use(cors());
 
 require("dotenv").config();
 dbConn();
 
-app.use(cors());
 app.use(express.json());
 
 // Add this route to fetch products
