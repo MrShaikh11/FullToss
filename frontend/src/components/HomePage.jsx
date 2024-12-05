@@ -90,7 +90,7 @@ const HomePage = () => {
         <img
           src={teamLogos[teamName]}
           alt={`${teamName} logo`}
-          className="w-8 h-8 mr-3"
+          className=" h-20 mr-3"
         />
         Welcome to the {team?.full || team} Fan Store!
       </h2>
