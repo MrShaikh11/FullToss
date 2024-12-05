@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "RCB Jersey",
+    "desc": "Official RCB jersey for fans.",
+    "price": 799,
+    "image": "https://via.placeholder.com/150?text=RCB+Jersey"
+  },
+  {
+    "id": 2,
+    "name": "MI Mug",
+    "desc": "Official Mumbai Indians mug.",
+    "price": 299,
+    "image": "https://via.placeholder.com/150?text=MI+Mug"
+  },
+  {
+    "id": 3,
+    "name": "CSK Cap",
+    "desc": "Yellow cap representing Chennai Super Kings.",
+    "price": 399,
+    "image": "https://via.placeholder.com/150?text=CSK+Cap"
+  },
+  {
+    "id": 4,
+    "name": "SRH T-Shirt",
+    "desc": "Official Sunrisers Hyderabad T-shirt.",
+    "price": 499,
+    "image": "https://via.placeholder.com/150?text=SRH+T-Shirt"
+  }
+]
